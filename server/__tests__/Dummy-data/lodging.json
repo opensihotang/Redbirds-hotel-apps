@@ -1,0 +1,212 @@
+[
+    {
+      "name": "Lodging 1",
+      "facility": "Facility 1",
+      "roomCapacity": 63,
+      "imgUrl": "img1.jpg",
+      "authorId": 1,
+      "location": "Location 1",
+      "price": 600000,
+      "typeId": 1
+    },
+    {
+      "name": "Lodging 2",
+      "facility": "Facility 2",
+      "roomCapacity": 4,
+      "imgUrl": "img2.jpg",
+      "authorId": 1,
+      "location": "Location 2",
+      "price": 600000,
+      "typeId": 2
+    },
+    {
+      "name": "Lodging 3",
+      "facility": "Facility 2",
+      "roomCapacity": 4,
+      "imgUrl": "img2.jpg",
+      "authorId": 1,
+      "location": "Location 2",
+      "price": 600000,
+      "typeId": 2
+    },
+    {
+        "name": "Lodging 4",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 5",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+      "name": "Lodging 6",
+      "facility": "Facility 2",
+      "roomCapacity": 4,
+      "imgUrl": "img2.jpg",
+      "authorId": 1,
+      "location": "Location 2",
+      "price": 600000,
+      "typeId": 2
+    },
+    {
+      "name": "Lodging 7",
+      "facility": "Facility 2",
+      "roomCapacity": 4,
+      "imgUrl": "img2.jpg",
+      "authorId": 1,
+      "location": "Location 2",
+      "price": 600000,
+      "typeId": 2
+    },
+    {
+        "name": "Lodging 8",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 9",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 10",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 11",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 12",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 13",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 14",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 15",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 16",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 17",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 18",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 19",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 890000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 20",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      },
+      {
+        "name": "Lodging 21",
+        "facility": "Facility 2",
+        "roomCapacity": 4,
+        "imgUrl": "img2.jpg",
+        "authorId": 1,
+        "location": "Location 2",
+        "price": 600000,
+        "typeId": 2
+      }
+  ]

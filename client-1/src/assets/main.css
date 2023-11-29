@@ -1,0 +1,266 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-family: 'Josefin Sans', sans-serif;
+  
+  
+}
+body{ 
+  font-family: 'Josefin Sans', sans-serif;
+  background-color: black;
+  color: white ;
+  /* background-image: url("../assets/test.jpg") ; */
+}
+nav {
+  display: flex;
+  background-color: rgb(5, 54, 54);
+  justify-content: space-around;
+  padding: 20px;
+  color: rgb(237, 243, 241);
+  font-size: 25px;
+  position: fixed;
+  top: 0;
+  width: 100%;
+  z-index: 999;
+}
+.navbar a{
+  display: flex;
+  align-items: center;
+}
+nav a{
+  color: rgb(237, 243, 241);
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: bold;
+}
+nav img{
+  margin-right: 10px;
+  border-radius: 50%;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  width: 40%;
+  justify-content: space-between;
+  font-family: 'Josefin Sans', sans-serif;
+  font-weight: bold;
+}
+nav ul li a {
+  text-decoration: none;
+  color: rgb(247, 247, 247); ;
+}
+nav ul li a:hover{
+  color: rgb(41, 224, 24);
+}
+.div-login{
+  display: flex;
+  justify-content: center;
+}
+
+.form-login{
+display: flex;
+justify-content: center;
+margin: 30px;
+width: 30%;
+height: 450px;
+border-radius: 10%;
+background: black
+}
+#login-form h3{
+margin-top: 30px;
+color: aliceblue;
+font-weight: bold;  
+}
+#login-form p{ 
+margin-top: 10px;
+color: aliceblue;
+font-weight: bold;
+}
+.input-form{
+width: 300px;
+height: 8%;
+border-radius: 5px;
+border-color: rgb(157, 215, 246);
+}
+::placeholder{
+padding : 20px;
+
+}
+.button button{
+display: flex;
+justify-content: center;
+align-items: center;
+align-content: center;
+margin: auto;
+margin-top: 10px;
+height: 40px;
+width: 150px;
+cursor: pointer;
+background-color: #333;;
+border-radius: 5px;
+border-color: wheat;
+color: azure;
+font-weight: bold;
+}
+button:hover {
+background-color:rgb(74, 67, 104);
+}
+.form-check{
+margin : 10px;
+color: white;
+font-weight: bold;
+}
+
+.dashboard{
+display: flex;
+justify-content: center;
+margin-top: 70px;
+}
+
+.total{
+display: flex;
+}
+.total h4{
+align-content: space-around;
+}
+
+.dashboard h1{
+margin-top: 50px;
+margin-bottom: 10px;
+border-bottom: 2px solid wheat;
+}
+
+.total-content{
+margin: 10px;
+border: 1px solid wheat ;
+width: 150px;
+height: 70px;
+border-radius: 10px;
+padding: 10px;
+}
+
+.total-content h2{
+margin : 20px 20px 0 30px
+}
+
+.lodgings-container,
+.types-container,
+.logs-container
+{
+display: flex;
+flex-direction: column;
+align-items: center;
+margin-top: 70px;
+}
+.newproduct-container,
+.newcategory-container{
+margin-top: 70px;
+
+}
+.form-addproduct, 
+.form-addtype,
+.form-login {
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+border: 2px solid wheat
+}
+.lodgings-top{
+display: flex;
+flex-direction: row;
+align-items: center;
+justify-content: space-around;
+gap: 750px;
+margin-bottom: 30px;
+}
+
+table{
+width: 1000px;
+border-radius: 5px;
+border-collapse: collapse;
+}
+table th {
+border-bottom:2px solid rgb(64, 60, 51)
+
+}
+table tr{
+text-align: center;
+}
+table td{
+border-bottom:0.005px solid rgb(64, 60, 51)
+}
+
+.img-table {
+/* width: 100%; */
+max-width: 100%;
+border-radius: 5px;
+margin-top: 5px;
+height: 100px;
+width: 150px;
+}
+
+.div-product{
+display: flex;
+justify-content: center;
+}
+
+.form-addproduct{
+display: flex;
+justify-content: center;
+margin: 30px;
+width: 30%;
+height: 600px;
+border-radius: 10%;
+background: black
+}
+#new-product-section h3{
+margin-top: 30px;
+color: aliceblue;
+font-weight: bold;  
+}
+#new-product-section p{ 
+margin-top: 10px;
+color: aliceblue;
+font-weight: bold;
+}
+.input-form{
+width: 300px;
+height: 30px;
+border-radius: 5px;
+border-color: rgb(157, 215, 246);
+}
+.button-container {
+display: flex;
+gap: 10px;
+margin-top: 20px;
+}
+.cancel-button,
+.submit-button {
+padding: 10px 20px;
+border: none;
+border-radius: 5px;
+background-color: #333;
+color: #fff;
+cursor: pointer;
+}
+
+.cancel-button:hover,
+.submit-button:hover {
+background-color: #555;
+}
+::placeholder{
+padding : 20px;
+}
+
+.form-addtype{
+display: flex;
+justify-content: center;
+margin: 30px;
+width: 30%;
+height: 200px;
+border-radius: 10%;
+background: black
+/* box-shadow:  10px 10px 30px #2b2828,
+            -10px -10px 30px #3a3636; */
+}
